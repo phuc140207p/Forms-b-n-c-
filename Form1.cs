@@ -63,5 +63,18 @@ namespace forms_bán_cá
         {
             Close();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            if(textBox1.Text == "phuckien" && textBox2.Text =="2222")
+            {
+                trangchu hello = new trangchu();
+                hello.Show();
+                this.Hide();
+
+
+
+            }    
+        }
     }
 }
