@@ -134,7 +134,7 @@ namespace forms_bán_cá
         {
 
            thongtin phuckien = new thongtin();
-            phuckien.Hide();
+            phuckien.Show();
         }
     }
 }

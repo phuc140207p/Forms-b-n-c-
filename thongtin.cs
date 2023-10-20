@@ -16,5 +16,10 @@ namespace forms_bán_cá
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Đặt hàng thành công");
+        }
     }
 }

@@ -116,6 +116,11 @@ namespace forms_bán_cá
             textBox2.Text = gia;
             textBox4.Text = nguongoc;
         }
+
+        private void button11_Click(object sender, EventArgs e)
+        {
+           this.Close();
+        }
     }
     }
     

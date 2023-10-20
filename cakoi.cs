@@ -232,7 +232,7 @@ namespace forms_bán_cá
         private void button11_Click(object sender, EventArgs e)
         {
             thongtin phuckien = new thongtin();
-            phuckien.Hide();
+            phuckien.Show();
         }
     }
 }
