@@ -16,5 +16,26 @@ namespace forms_bán_cá
         {
             InitializeComponent();
         }
+
+        private void label32_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button13_Click(object sender, EventArgs e)
+        {
+            thongtin phuckien = new thongtin();
+            phuckien.Show();
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button12_Click(object sender, EventArgs e)
+        {
+            
+        }
     }
 }

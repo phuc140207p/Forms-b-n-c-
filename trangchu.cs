@@ -61,5 +61,10 @@ namespace forms_bán_cá
             mauhonuoica phuckien = new mauhonuoica();
             phuckien.Show();
         }
+
+        private void hỆTHỐNGToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

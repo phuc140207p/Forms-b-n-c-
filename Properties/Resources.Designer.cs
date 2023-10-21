@@ -753,6 +753,16 @@ namespace forms_bán_cá.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap ca_sam_1 {
+            get {
+                object obj = ResourceManager.GetObject("ca-sam-1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap caaa93508a415d1f0450 {
             get {
                 object obj = ResourceManager.GetObject("caaa93508a415d1f0450", resourceCulture);
@@ -776,6 +786,16 @@ namespace forms_bán_cá.Properties {
         internal static System.Drawing.Bitmap ddd1e12bf83a2f64762b {
             get {
                 object obj = ResourceManager.GetObject("ddd1e12bf83a2f64762b", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap download {
+            get {
+                object obj = ResourceManager.GetObject("download", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

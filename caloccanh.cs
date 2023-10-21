@@ -136,5 +136,10 @@ namespace forms_bán_cá
            thongtin phuckien = new thongtin();
             phuckien.Show();
         }
+
+        private void caloccanh_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

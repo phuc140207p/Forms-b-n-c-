@@ -94,7 +94,7 @@ namespace forms_bán_cá
 
         private void button8_Click(object sender, EventArgs e)
         {
-            String tenloaica = "Cá La Hán";
+            String tenloaica = "cá cầu vòng xanh";
             String gia = "5.000";
             String nguongoc = "Cá la hán có nguồn gốc xuất xứ từ Malaysia, được lai tạo từ cá hồng két cùng dòng cá hiếm ở Mỹ. ";
             textBox1.Text = tenloaica;
@@ -124,7 +124,8 @@ namespace forms_bán_cá
 
         private void button12_Click(object sender, EventArgs e)
         {
-            this.Close();
+            thongtin phuckien = new thongtin();
+            phuckien.Show();
         }
 
         private void button11_Click(object sender, EventArgs e)

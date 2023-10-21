@@ -226,13 +226,24 @@ namespace forms_bán_cá
 
         private void button12_Click(object sender, EventArgs e)
         {
-            this.Close();
+            thongtin phuckien = new thongtin();
+            phuckien.Show();
         }
 
         private void button11_Click(object sender, EventArgs e)
         {
             thongtin phuckien = new thongtin();
             phuckien.Show();
+        }
+
+        private void label8_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label32_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

@@ -102,11 +102,12 @@
             this.hỆTHỐNGToolStripMenuItem.Name = "hỆTHỐNGToolStripMenuItem";
             this.hỆTHỐNGToolStripMenuItem.Size = new System.Drawing.Size(85, 19);
             this.hỆTHỐNGToolStripMenuItem.Text = "TRANG CHỦ";
+            this.hỆTHỐNGToolStripMenuItem.Click += new System.EventHandler(this.hỆTHỐNGToolStripMenuItem_Click);
             // 
             // tHOÁTToolStripMenuItem
             // 
             this.tHOÁTToolStripMenuItem.Name = "tHOÁTToolStripMenuItem";
-            this.tHOÁTToolStripMenuItem.Size = new System.Drawing.Size(111, 22);
+            this.tHOÁTToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.tHOÁTToolStripMenuItem.Text = "THOÁT";
             this.tHOÁTToolStripMenuItem.Click += new System.EventHandler(this.tHOÁTToolStripMenuItem_Click);
             // 
@@ -158,8 +159,8 @@
             // kIÊNTHỨCNUICÁToolStripMenuItem
             // 
             this.kIÊNTHỨCNUICÁToolStripMenuItem.Name = "kIÊNTHỨCNUICÁToolStripMenuItem";
-            this.kIÊNTHỨCNUICÁToolStripMenuItem.Size = new System.Drawing.Size(71, 19);
-            this.kIÊNTHỨCNUICÁToolStripMenuItem.Text = "CHẬU CÁ";
+            this.kIÊNTHỨCNUICÁToolStripMenuItem.Size = new System.Drawing.Size(51, 19);
+            this.kIÊNTHỨCNUICÁToolStripMenuItem.Text = "BỂ CÁ";
             this.kIÊNTHỨCNUICÁToolStripMenuItem.Click += new System.EventHandler(this.kIÊNTHỨCNUICÁToolStripMenuItem_Click);
             // 
             // gIỚITHIỆUToolStripMenuItem
@@ -172,7 +173,7 @@
             // pictureBox6
             // 
             this.pictureBox6.Image = global::forms_bán_cá.Properties.Resources.a73d71306421b37fea30;
-            this.pictureBox6.Location = new System.Drawing.Point(283, 12);
+            this.pictureBox6.Location = new System.Drawing.Point(283, 28);
             this.pictureBox6.Name = "pictureBox6";
             this.pictureBox6.Size = new System.Drawing.Size(424, 73);
             this.pictureBox6.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
