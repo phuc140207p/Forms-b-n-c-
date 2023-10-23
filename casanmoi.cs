@@ -136,6 +136,11 @@ namespace forms_bán_cá
         {
             this.Close();
         }
+
+        private void button12_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
     }
 }
     

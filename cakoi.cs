@@ -4,6 +4,7 @@ using System.ComponentModel;
 using System.Data;
 using System.Drawing;
 using System.Linq;
+using System.Security.Cryptography;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
@@ -13,6 +14,9 @@ namespace forms_bán_cá
 {
     public partial class cakoi : Form
     {
+        public delegate void TruyenChoCha(string text);
+
+        public TruyenChoCha truyenData;
         public cakoi()
         {
             InitializeComponent();
@@ -226,8 +230,9 @@ namespace forms_bán_cá
 
         private void button12_Click(object sender, EventArgs e)
         {
-            thongtin phuckien = new thongtin();
-            phuckien.Show();
+
+            this.Close();
+
         }
 
         private void button11_Click(object sender, EventArgs e)
@@ -245,5 +250,22 @@ namespace forms_bán_cá
         {
 
         }
+
+        private void textBox3_TextChanged(object sender, EventArgs e)
+        {
+            
+        }
+
+        private void button14_Click(object sender, EventArgs e)
+        {
+
+
+        }
+
+        private void Mua_Click(object sender, EventArgs e)
+        {
+            
+        }
+        
     }
 }

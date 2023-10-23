@@ -36,7 +36,10 @@
             this.textBox2 = new System.Windows.Forms.TextBox();
             this.textBox3 = new System.Windows.Forms.TextBox();
             this.textBox4 = new System.Windows.Forms.TextBox();
-            this.button1 = new System.Windows.Forms.Button();
+            this.bttruyendulieu = new System.Windows.Forms.Button();
+            this.Thoat = new System.Windows.Forms.Button();
+            this.lblllll = new System.Windows.Forms.Label();
+            this.txtdb = new System.Windows.Forms.TextBox();
             this.SuspendLayout();
             // 
             // label1
@@ -119,16 +122,43 @@
             this.textBox4.TabIndex = 1;
             this.textBox4.Text = "họ và tên";
             // 
-            // button1
+            // bttruyendulieu
             // 
-            this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button1.Location = new System.Drawing.Point(232, 451);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(192, 48);
-            this.button1.TabIndex = 2;
-            this.button1.Text = "Đặt hàng";
-            this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
+            this.bttruyendulieu.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.bttruyendulieu.Location = new System.Drawing.Point(141, 479);
+            this.bttruyendulieu.Name = "bttruyendulieu";
+            this.bttruyendulieu.Size = new System.Drawing.Size(192, 48);
+            this.bttruyendulieu.TabIndex = 2;
+            this.bttruyendulieu.Text = "Đặt hàng";
+            this.bttruyendulieu.UseVisualStyleBackColor = true;
+            this.bttruyendulieu.Click += new System.EventHandler(this.button1_Click);
+            // 
+            // Thoat
+            // 
+            this.Thoat.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Thoat.Location = new System.Drawing.Point(367, 476);
+            this.Thoat.Name = "Thoat";
+            this.Thoat.Size = new System.Drawing.Size(180, 50);
+            this.Thoat.TabIndex = 4;
+            this.Thoat.Text = "Thoat";
+            this.Thoat.UseVisualStyleBackColor = true;
+            this.Thoat.Click += new System.EventHandler(this.Thoat_Click);
+            // 
+            // lblllll
+            // 
+            this.lblllll.AutoSize = true;
+            this.lblllll.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblllll.Location = new System.Drawing.Point(172, 413);
+            this.lblllll.Name = "lblllll";
+            this.lblllll.Size = new System.Drawing.Size(0, 25);
+            this.lblllll.TabIndex = 5;
+            // 
+            // txtdb
+            // 
+            this.txtdb.Location = new System.Drawing.Point(26, 428);
+            this.txtdb.Name = "txtdb";
+            this.txtdb.Size = new System.Drawing.Size(128, 20);
+            this.txtdb.TabIndex = 6;
             // 
             // thongtin
             // 
@@ -136,7 +166,10 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ActiveCaption;
             this.ClientSize = new System.Drawing.Size(671, 552);
-            this.Controls.Add(this.button1);
+            this.Controls.Add(this.txtdb);
+            this.Controls.Add(this.lblllll);
+            this.Controls.Add(this.Thoat);
+            this.Controls.Add(this.bttruyendulieu);
             this.Controls.Add(this.textBox3);
             this.Controls.Add(this.textBox2);
             this.Controls.Add(this.textBox4);
@@ -148,6 +181,7 @@
             this.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.Name = "thongtin";
             this.Text = "thongtin";
+            this.Load += new System.EventHandler(this.thongtin_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -163,6 +197,9 @@
         private System.Windows.Forms.TextBox textBox2;
         private System.Windows.Forms.TextBox textBox3;
         private System.Windows.Forms.TextBox textBox4;
-        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button bttruyendulieu;
+        private System.Windows.Forms.Button Thoat;
+        private System.Windows.Forms.Label lblllll;
+        private System.Windows.Forms.TextBox txtdb;
     }
 }

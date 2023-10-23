@@ -133,6 +133,11 @@ namespace forms_bán_cá
             thongtin phuckien = new thongtin();
             phuckien.Show();
         }
+
+        private void button12_Click_1(object sender, EventArgs e)
+        {
+            this.Close();
+        }
     }
     }
     
