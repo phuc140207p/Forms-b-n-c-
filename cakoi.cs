@@ -132,6 +132,8 @@ namespace forms_bán_cá
             String tenloaica = "Coi  Bướm ";
             String gia = "350.000";
             String nguongoc = "Cá Koi Bướm là sản phẩm được lai tạo tại trại giống ở phía bắc Carolina.  ";
+            string soluong = ("30");
+            txtData.Text = soluong;
             textBox1.Text = tenloaica;
             textBox2.Text = gia;
             textBox4.Text = nguongoc;
@@ -143,6 +145,8 @@ namespace forms_bán_cá
             String tenloaica = "Koi tancho  ";
             String gia = "1.500.000";
             String nguongoc = "Nguồn gốc của koi Tancho. Nguồn gốc của cá koi Tancho gắn với truyền thuyết của loài sếu đầu đỏ có thân mình trắng tuyết của Nhật Bản   ";
+            string soluong = ("30");
+            txtData.Text = soluong;
             textBox1.Text = tenloaica;
             textBox2.Text = gia;
             textBox4.Text = nguongoc;
@@ -153,6 +157,8 @@ namespace forms_bán_cá
             String tenloaica = "Koi f1   ";
             String gia = "350.000";
             String nguongoc = "Cá Koi F1 được tạo ra từ việc lai tạo giữa 2 giống cá Koi thuần chủng khác nhau.   ";
+            string soluong = ("30");
+            txtData.Text = soluong;
             textBox1.Text = tenloaica;
             textBox2.Text = gia;
             textBox4.Text = nguongoc;
@@ -163,6 +169,8 @@ namespace forms_bán_cá
             String tenloaica = "Koi ki hikari utsuri   ";
             String gia = "25.000.000";
             String nguongoc = "Koi Utsurimono thuộc dòng dõi nhà magoi (cá chép đen) Nhật bản.  ";
+            string soluong = ("30");
+            txtData.Text = soluong;
             textBox1.Text = tenloaica;
             textBox2.Text = gia;
             textBox4.Text = nguongoc;
@@ -173,6 +181,8 @@ namespace forms_bán_cá
             String tenloaica = "Koi goromo   ";
             String gia = "25.000.000";
             String nguongoc = "Cá koi Goromo là kết quả lai tạo tình cờ giữa một con cá koi kohaku, một con Sanke hoặc một con Showa với một con cá koi Asagi  ";
+            string soluong = ("30");
+            txtData.Text = soluong;
             textBox1.Text = tenloaica;
             textBox2.Text = gia;
             textBox4.Text = nguongoc;
@@ -183,6 +193,8 @@ namespace forms_bán_cá
             String tenloaica = "Beni Kikokuryu   ";
             String gia = "600.000";
             String nguongoc = "Cá koi Kikokuryu (KEE-koo-KUR-ree-YOO) về cơ bản là một phiên bản kim loại của koi Kumonryu. Đó là, koi Kikokuryu là một con koi màu trắng kim loại, không vảy với các mảng màu đen. Ban đầu nó được tạo ra bằng cách lai tạo cá koi Kumonryu với cá koi Doitsu Platinum Ogon, một loại koi kim loại, không vảy với màu trắng đặc. Việc ghép đôi này đã cải thiện chất lượng màu trắng trong da của cá koi đồng thời mang lại cho nó ánh kim loại đáng yêu rất dễ nhận biết.  ";
+            string soluong = ("30");
+            txtData.Text = soluong;
             textBox1.Text = tenloaica;
             textBox2.Text = gia;
             textBox4.Text = nguongoc;
@@ -193,6 +205,8 @@ namespace forms_bán_cá
             String tenloaica = "vây xanh   ";
             String gia = "69.000.000";
             String nguongoc = "cá koi xanh còn có tên gọi là cá koi asagi – một loại giống cá koi Nhật Bản   ";
+            string soluong = ("30");
+            txtData.Text = soluong;
             textBox1.Text = tenloaica;
             textBox2.Text = gia;
             textBox4.Text = nguongoc;
@@ -203,6 +217,8 @@ namespace forms_bán_cá
             String tenloaica = "Koi Ogon    ";
             String gia = "46.000.000";
             String nguongoc = "là một loại cá chép thường (Cyprinus carpio) đã được thuần hóa, lai tạo để nuôi làm cảnh trong những hồ nhỏ, được nuôi phổ biến tại Nhật Bản.  ";
+            string soluong = ("30");
+            txtData.Text = soluong;
             textBox1.Text = tenloaica;
             textBox2.Text = gia;
             textBox4.Text = nguongoc;
@@ -213,6 +229,8 @@ namespace forms_bán_cá
             String tenloaica = "Asagi    ";
             String gia = "25.000.000";
             String nguongoc = "Nguồn gốc từ cá chép đen suối. Được tiến hóa theo hướng chọn lọc những em Koi có màu trắng, đỏ và xanh dương để nuôi trong hồ. - Koi Asagi có màu xám bạc, chính giữa có vẩy đen, ngoài bìa mỗi vẩy hơi xanh dậm da trời, nhìn như lưới cá Fukurin.  ";
+            string soluong = ("30");
+            txtData.Text = soluong;
             textBox1.Text = tenloaica;
             textBox2.Text = gia;
             textBox4.Text = nguongoc;
@@ -223,6 +241,8 @@ namespace forms_bán_cá
             String tenloaica = "Ginrin red chagoi   ";
             String gia = "200.000.000";
             String nguongoc = "Nổi bật trong đó là con cá Koi thuộc giống Ginrin Red Chagoi xuất xứ từ trại cá Ogata. Con cá khoảng 5-6 năm tuổi, dài 81cm, bản lưng dày cộm với vảy toàn thân màu đồng đỏ.   ";
+            string soluong = ("30");
+            txtData.Text = soluong;
             textBox1.Text = tenloaica;
             textBox2.Text = gia;
             textBox4.Text = nguongoc;
@@ -231,7 +251,10 @@ namespace forms_bán_cá
         private void button12_Click(object sender, EventArgs e)
         {
 
-            this.Close();
+            trangchu phuckien = new trangchu();
+            phuckien.Show();
+            this.Hide();
+
 
         }
 
@@ -239,11 +262,6 @@ namespace forms_bán_cá
         {
             thongtin phuckien = new thongtin();
             phuckien.Show();
-        }
-
-        private void label8_Click(object sender, EventArgs e)
-        {
-
         }
 
         private void label32_Click(object sender, EventArgs e)
@@ -264,7 +282,9 @@ namespace forms_bán_cá
 
         private void Mua_Click(object sender, EventArgs e)
         {
-            
+            thongtin phuckien = new thongtin();
+            phuckien.Show();
+            this.Hide();
         }
         
     }

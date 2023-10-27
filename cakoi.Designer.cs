@@ -151,7 +151,6 @@
             this.label8.Size = new System.Drawing.Size(42, 16);
             this.label8.TabIndex = 256;
             this.label8.Text = "Koi f1 ";
-            this.label8.Click += new System.EventHandler(this.label8_Click);
             // 
             // label27
             // 

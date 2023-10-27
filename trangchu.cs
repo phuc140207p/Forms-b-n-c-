@@ -60,9 +60,29 @@ namespace forms_bán_cá
         {
             mauhonuoica phuckien = new mauhonuoica();
             phuckien.Show();
+            this.Hide();
         }
 
         private void hỆTHỐNGToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void mẪUHỒNUICÁToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            mhnc mhnc = new mhnc();
+            mhnc.Show();
+            this.Hide();
+        }
+
+        private void đăngXuấtToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Form1 form1 = new Form1();
+            form1.Show();
+            this.Hide();
+        }
+
+        private void trangchu_Load(object sender, EventArgs e)
         {
 
         }

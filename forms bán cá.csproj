@@ -70,6 +70,12 @@
     <Compile Include="cathuysinh.Designer.cs">
       <DependentUpon>cathuysinh.cs</DependentUpon>
     </Compile>
+    <Compile Include="dangki.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="dangki.Designer.cs">
+      <DependentUpon>dangki.cs</DependentUpon>
+    </Compile>
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -93,6 +99,12 @@
     </Compile>
     <Compile Include="mauhonuoica.Designer.cs">
       <DependentUpon>mauhonuoica.cs</DependentUpon>
+    </Compile>
+    <Compile Include="mhnc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mhnc.Designer.cs">
+      <DependentUpon>mhnc.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -120,6 +132,9 @@
     <EmbeddedResource Include="cathuysinh.resx">
       <DependentUpon>cathuysinh.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="dangki.resx">
+      <DependentUpon>dangki.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
@@ -131,6 +146,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="mauhonuoica.resx">
       <DependentUpon>mauhonuoica.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mhnc.resx">
+      <DependentUpon>mhnc.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -397,6 +415,18 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\ca-sam-1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\60f2e959bb956ccb3584.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\e8ce0c615ead89f3d0bc.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\f017e2b2b07e67203e6f.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngtree-user-login-or-authenticate-icon-on-gray-background-flat-icon-ve-png-image_1742031.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

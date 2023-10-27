@@ -45,6 +45,8 @@ namespace forms_bán_cá
             String tenloaica = "Lóc albino ";
             String gia = "250.000";
             String nguongoc = " (Corydoras aeneus) là một biến thể của giống Cá chép đồng cổ điển có nguồn gốc từ một số quốc gia ở Nam Mỹ.";
+            string soluong = ("30");
+            textBox3.Text = soluong;
             textBox1.Text = tenloaica;
             textBox2.Text = gia;
             textBox4.Text = nguongoc;
@@ -55,6 +57,8 @@ namespace forms_bán_cá
             String tenloaica = "Red barito  ";
             String gia = "550.000";
             String nguongoc = " Cá lóc (danh pháp khoa học : Chana micropeltes) là một loài cá nước ngọt thuộc họ cá lóc (Channidae).Nó có nguồn gốc từ Đông Nam Á";
+            string soluong = ("30");
+            textBox3.Text = soluong;
             textBox1.Text = tenloaica;
             textBox2.Text = gia;
             textBox4.Text = nguongoc;
@@ -65,6 +69,8 @@ namespace forms_bán_cá
             String tenloaica = "Cá lóc hoàng đế";
             String gia = "1.500.000";
             String nguongoc = " Cá lóc hoàng đế (Danh pháp khoa học: Channa barca) là một loài cá lóc trong chi Channa (cá quả/cá lóc) thuộc họ Channidae có nguồn gốc từ Ấn Độ (Assam, Tây Bengal, Nagaland?), Bangladesh và có thể có ở Nepal.";
+            string soluong = ("30");
+            textBox3.Text = soluong;
             textBox1.Text = tenloaica;
             textBox2.Text = gia;
             textBox4.Text = nguongoc;
@@ -75,6 +81,8 @@ namespace forms_bán_cá
             String tenloaica = "Cá lóc nữ hoàng";
             String gia = "2.500.000";
             String nguongoc = "Cá lóc hoàng đế (Danh pháp khoa học: Channa barca) là một loài cá lóc trong chi Channa (cá quả/cá lóc) thuộc họ Channidae có nguồn gốc từ Ấn Độ (Assam, Tây Bengal, Nagaland?), Bangladesh và có thể có ở Nepal.";
+            string soluong = ("30");
+            textBox3.Text = soluong;
             textBox1.Text = tenloaica;
             textBox2.Text = gia;
             textBox4.Text = nguongoc;
@@ -85,6 +93,8 @@ namespace forms_bán_cá
             String tenloaica = "Cá Pháo hoa đốm vàng";
             String gia = "250.000";
             String nguongoc = "Cá Lóc Pháo Hoa Đốm Vàng – Channa pulchra phát triển tối đa 25 cm và là một trong những loài cá Lóc nhỏ. Nó là loài đặc hữu của Myanmar ở thượng nguồn sông Kyeinthali Chaung.";
+            string soluong = ("30");
+            textBox3.Text = soluong;
             textBox1.Text = tenloaica;
             textBox2.Text = gia;
             textBox4.Text = nguongoc;
@@ -95,6 +105,8 @@ namespace forms_bán_cá
             String tenloaica = "Vây Xanh";
             String gia = "50.000";
             String nguongoc = "Channa andrao hoặc cá lóc cầu vồng vây xanh là một loài cá lóc trong họ Channidae thuộc chi Channa, được phát hiện và miêu tả năm 2013 tại miền đông Himalaya, được phát hiện trong khu vực đầm lầy Lefraguri ở Tây Bengal, Ấn Độ.";
+            string soluong = ("30");
+            textBox3.Text = soluong; 
             textBox1.Text = tenloaica;
             textBox2.Text = gia;
             textBox4.Text = nguongoc;
@@ -105,6 +117,8 @@ namespace forms_bán_cá
             String tenloaica = "Trân châu đen";
             String gia = "180.000";
             String nguongoc = "Cá lóc trân châu đen có tên tiếng anh là Channa Hanamensis. Chúng được tìm thấy ở vùng trung và hạ lưu sông Trường Giang (Dương Tử). Và lưu vực sông Xun ráp gianh giữa tỉnh Quảng Tây và Quảng Đông của Trung Quốc.";
+            string soluong = ("30");
+            textBox3.Text = soluong;
             textBox1.Text = tenloaica;
             textBox2.Text = gia;
             textBox4.Text = nguongoc;
@@ -115,6 +129,8 @@ namespace forms_bán_cá
             String tenloaica = "Tiểu hoàng đế";
             String gia = "150.000";
             String nguongoc = "Cá lóc hoàng đế (Danh pháp khoa học: Channa barca) là một loài cá lóc trong chi Channa (cá quả/cá lóc) thuộc họ Channidae có nguồn gốc từ Ấn Độ (Assam, Tây Bengal, Nagaland?), Bangladesh và có thể có ở Nepal.";
+            string soluong = ("30");
+            textBox3.Text = soluong;
             textBox1.Text = tenloaica;
             textBox2.Text = gia;
             textBox4.Text = nguongoc;
@@ -125,6 +141,8 @@ namespace forms_bán_cá
             String tenloaica = "lóc yellow sentarum  ";
             String gia = "150.000";
             String nguongoc = "Cá lóc vẩy rồng Yellow Sentarum có tên gọi tiếng anh là Channa Marulioides. Tên gọi “Yellow Sentarum” của chúng xuất phát từ nơi mà người ta lần đầu tìm thấy và cũng như đặc trưng màu vàng nổi bật trên cơ thể chúng.";
+            string soluong = ("30");
+            textBox3.Text = soluong;
             textBox1.Text = tenloaica;
             textBox2.Text = gia;
             textBox4.Text = nguongoc;
@@ -135,6 +153,7 @@ namespace forms_bán_cá
 
            thongtin phuckien = new thongtin();
             phuckien.Show();
+            this.Hide();
         }
 
         private void caloccanh_Load(object sender, EventArgs e)
@@ -144,7 +163,10 @@ namespace forms_bán_cá
 
         private void button12_Click(object sender, EventArgs e)
         {
-            this.Close();
+            trangchu phuckien = new trangchu();
+            phuckien.Show();
+            this.Hide();
+
         }
     }
 }

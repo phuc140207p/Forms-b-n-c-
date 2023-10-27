@@ -34,7 +34,7 @@ namespace forms_bán_cá
       
         private void button1_Click(object sender, EventArgs e)
         {
-           
+            MessageBox.Show("đã mua thành công");
            
         }
 
@@ -50,7 +50,9 @@ namespace forms_bán_cá
 
         private void Thoat_Click(object sender, EventArgs e)
         {
-            this.Close();
+            trangchu phuckien = new trangchu();
+            phuckien.Show();
+            this.Hide();
         }
 
         private void thongtin_Load(object sender, EventArgs e)
@@ -58,6 +60,10 @@ namespace forms_bán_cá
 
         }
 
+        private void textBox4_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
     
 }

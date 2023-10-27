@@ -76,5 +76,12 @@ namespace forms_bán_cá
 
             }    
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            dangki dangki = new dangki();
+            dangki.Show();
+            this.Hide();
+        }
     }
 }
