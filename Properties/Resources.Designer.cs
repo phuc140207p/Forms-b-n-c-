@@ -163,6 +163,36 @@ namespace forms_bán_cá.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _123 {
+            get {
+                object obj = ResourceManager.GetObject("123", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _1231 {
+            get {
+                object obj = ResourceManager.GetObject("1231", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _1232 {
+            get {
+                object obj = ResourceManager.GetObject("1232", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap _1dd229553044e71abe55 {
             get {
                 object obj = ResourceManager.GetObject("1dd229553044e71abe55", resourceCulture);
@@ -306,6 +336,16 @@ namespace forms_bán_cá.Properties {
         internal static System.Drawing.Bitmap _4a2656a44fb598ebc1a4 {
             get {
                 object obj = ResourceManager.GetObject("4a2656a44fb598ebc1a4", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _4a578ee51c41bf0de36270e2e87d5f93_jpg_720x720q80 {
+            get {
+                object obj = ResourceManager.GetObject("4a578ee51c41bf0de36270e2e87d5f93.jpg_720x720q80", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

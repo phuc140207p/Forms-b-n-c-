@@ -139,6 +139,15 @@
   <data name="883050724a639d3dc4723" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\883050724a639d3dc4723.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="1231" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1231.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="123" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\123.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="1232" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1232.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="883050724a639d3dc472 (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\883050724a639d3dc472 (1).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -172,11 +181,11 @@
   <data name="269219150004d75a8e15" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\269219150004d75a8e15.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="107861fd78ecafb2f6fd" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\107861fd78ecafb2f6fd.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="a2da39492058f706ae49" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\a2da39492058f706ae49.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="images (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\images (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="b20cace2b5f362ad3be2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\b20cace2b5f362ad3be2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -192,6 +201,9 @@
   </data>
   <data name="0d254fb456a581fbd8b4" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\0d254fb456a581fbd8b4.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="8249b1b3a8a27ffc26b3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\8249b1b3a8a27ffc26b3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="4a2656a44fb598ebc1a4" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\4a2656a44fb598ebc1a4.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -265,9 +277,6 @@
   <data name="01ee70596b48bc16e559" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\01ee70596b48bc16e559.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="a73d71306421b37fea301" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\a73d71306421b37fea301.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="3392f168e8793f276668" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\3392f168e8793f276668.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -283,6 +292,9 @@
   <data name="cd9d8c68957942271b68" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\cd9d8c68957942271b68.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="maxresdefault" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\maxresdefault.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="23ded76bcc7a1b24426b" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\23ded76bcc7a1b24426b.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -295,8 +307,8 @@
   <data name="582c85979e8649d810972" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\582c85979e8649d810972.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="883050724a639d3dc472" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\883050724a639d3dc472.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="a73d71306421b37fea301" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\a73d71306421b37fea301.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="ee517fc266d3b18de8c2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\ee517fc266d3b18de8c2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -307,8 +319,11 @@
   <data name="478b9ac880d957870ec81" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\478b9ac880d957870ec81.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="8249b1b3a8a27ffc26b3" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\8249b1b3a8a27ffc26b3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="883050724a639d3dc472" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\883050724a639d3dc472.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="images (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\images (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="a73d71306421b37fea302" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\a73d71306421b37fea302.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -328,8 +343,8 @@
   <data name="6043a9f6b2e765b93cf6" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\6043a9f6b2e765b93cf6.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="107861fd78ecafb2f6fd" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\107861fd78ecafb2f6fd.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="8cc4e734fe25297b7034" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\8cc4e734fe25297b7034.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="thiet-ke-ho-ca-koi-01-1679037915" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\thiet-ke-ho-ca-koi-01-1679037915.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -351,9 +366,6 @@
   </data>
   <data name="3bb1e54bfc5a2b04724b" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\3bb1e54bfc5a2b04724b.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="8cc4e734fe25297b7034" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\8cc4e734fe25297b7034.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="71861b760267d5398c76" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\71861b760267d5398c76.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -391,7 +403,7 @@
   <data name="a73d71306421b37fea30" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\a73d71306421b37fea30.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="maxresdefault" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\maxresdefault.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="4a578ee51c41bf0de36270e2e87d5f93.jpg_720x720q80" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\4a578ee51c41bf0de36270e2e87d5f93.jpg_720x720q80.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

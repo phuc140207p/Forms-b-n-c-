@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using static System.Windows.Forms.VisualStyles.VisualStyleElement;
 
 namespace forms_bán_cá
 {
@@ -63,17 +64,33 @@ namespace forms_bán_cá
         {
             Close();
         }
+        Modify modify = new Modify();
 
         private void button1_Click(object sender, EventArgs e)
         {
-            if(textBox1.Text == "phuckien" && textBox2.Text =="2222")
+ 
+            String tendn = textBox_taikhoan.Text;
+            String matkhau = textBox_matkhau.Text;
+            if (tendn.Trim() =="") { MessageBox.Show("Vui lòng nhập tên tài khoản!"); }
+            else if (matkhau.Trim() =="") {MessageBox.Show("vui lòng nhập mật khẩu!"); }
+            else
             {
-                trangchu hello = new trangchu();
-                hello.Show();
-                this.Hide();
+                String query = "select * from taikhoan where tentaikhoan = '" +tendn+ "' and Matkhau = '"+matkhau+"' ";
+                if(modify.taikhoans(query).Count>0)
+                {
+                    MessageBox.Show("đăng nhập thành công!");
+                }
+                else
+                {
+                    MessageBox.Show("tên đăng nhập hoặc mật khẩu không đúng!");
+                }
+                if (textBox_taikhoan.Text == "phuckien" && textBox_matkhau.Text == "2222")
+                {
+                    trangchu hello = new trangchu();
+                    hello.Show();
+                    this.Hide();
 
-
-
+                }
             }    
         }
 
