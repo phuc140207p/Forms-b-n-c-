@@ -428,5 +428,32 @@
   <ItemGroup>
     <None Include="Resources\pngtree-user-login-or-authenticate-icon-on-gray-background-flat-icon-ve-png-image_1742031.jpg" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\be-ca-hinh-vuong1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tiểu-cảnh-sân-vườn-tại-Quảng-Ngãi.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dat-trong-cay-thuy-sinh-2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\thiet-ke-ho-ca-koi-01-1679037915.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\z4831057403955_47ca4443798a2cd2ccf72413d240e33f.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\z4831202856805_7921709a88cebc4c5fb6c9a925d30b4a.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\maxresdefault.jpg" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

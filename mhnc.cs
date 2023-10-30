@@ -23,5 +23,10 @@ namespace forms_bán_cá
             phuckien.Show();
             this.Hide();
         }
+
+        private void mhnc_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

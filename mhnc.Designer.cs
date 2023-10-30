@@ -83,7 +83,7 @@
             // 
             // pictureBox3
             // 
-            this.pictureBox3.Image = global::forms_bán_cá.Properties.Resources.f017e2b2b07e67203e6f;
+            this.pictureBox3.Image = global::forms_bán_cá.Properties.Resources.be_ca_hinh_vuong1;
             this.pictureBox3.Location = new System.Drawing.Point(736, 483);
             this.pictureBox3.Name = "pictureBox3";
             this.pictureBox3.Size = new System.Drawing.Size(352, 183);
@@ -93,7 +93,7 @@
             // 
             // pictureBox2
             // 
-            this.pictureBox2.Image = global::forms_bán_cá.Properties.Resources.e8ce0c615ead89f3d0bc;
+            this.pictureBox2.Image = global::forms_bán_cá.Properties.Resources.dat_trong_cay_thuy_sinh_2;
             this.pictureBox2.Location = new System.Drawing.Point(736, 265);
             this.pictureBox2.Name = "pictureBox2";
             this.pictureBox2.Size = new System.Drawing.Size(352, 183);
@@ -103,7 +103,7 @@
             // 
             // pictureBox1
             // 
-            this.pictureBox1.Image = global::forms_bán_cá.Properties.Resources._60f2e959bb956ccb3584;
+            this.pictureBox1.Image = global::forms_bán_cá.Properties.Resources.thiet_ke_ho_ca_koi_01_1679037915;
             this.pictureBox1.Location = new System.Drawing.Point(736, 47);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(352, 183);
@@ -115,6 +115,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
             this.ClientSize = new System.Drawing.Size(1152, 710);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.pictureBox3);
@@ -125,6 +126,7 @@
             this.Controls.Add(this.label1);
             this.Name = "mhnc";
             this.Text = "mhnc";
+            this.Load += new System.EventHandler(this.mhnc_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();

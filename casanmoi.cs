@@ -166,6 +166,11 @@ namespace forms_bán_cá
             this.Hide();
 
         }
+
+        private void textBox3_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
     
